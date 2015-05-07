@@ -4,6 +4,7 @@ pygments: true
 simple_search: http://google.com/search
 markdown: kramdown
 paginate: 10
+encoding: UTF-8
 kramdown:
   extensions:
     - autolink
